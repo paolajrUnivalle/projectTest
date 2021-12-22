@@ -7,11 +7,4 @@ public class Model {
         this.valorJugada = valorJugada;
     }
 
-    public int getValorJugada() {
-        return valorJugada;
-    }
-
-    public void setValorJugada(int valorJugada) {
-        this.valorJugada = valorJugada;
-    }
 }
