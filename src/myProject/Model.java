@@ -11,7 +11,5 @@ public class Model {
         return valorJugada;
     }
 
-    public void setValorJugada(int valorJugada) {
-        this.valorJugada = valorJugada;
-    }
+
 }
